@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.096,=C:\Users\georgii.pugachev\Documents\Embarcadero\Studio\Projects\Unit10.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.481,=C:\Users\georgii.pugachev\Documents\Embarcadero\Studio\Projects\Unit10.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.266,=C:\Users\georgii.pugachev\Documents\Embarcadero\Studio\Projects\Unit10.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.056,=C:\Users\georgii.pugachev\Documents\Embarcadero\Studio\Projects\Unit10.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.344,=C:\Users\georgii.pugachev\Documents\Embarcadero\Studio\Projects\Unit10.pas</Transaction>
+    <Transaction>2021.09.10 09:23:32.240,=C:\Users\georgii.pugachev\Documents\Embarcadero\Studio\Projects\Unit10.pas</Transaction>
+    <Transaction>2021.09.10 09:24:25.553,C:\Projects\DelphiPatterns\Observer\fMain.pas=C:\Users\georgii.pugachev\Documents\Embarcadero\Studio\Projects\Unit10.pas</Transaction>
+    <Transaction>2021.09.10 09:24:25.553,C:\Projects\DelphiPatterns\Observer\fMain.dfm=C:\Users\georgii.pugachev\Documents\Embarcadero\Studio\Projects\Unit10.dfm</Transaction>
+    <Transaction>2021.09.10 09:24:34.499,C:\Projects\DelphiPatterns\Observer\Observer.dproj=C:\Users\georgii.pugachev\Documents\Embarcadero\Studio\Projects\Project10.dproj</Transaction>
+    <Transaction>2021.09.10 09:26:48.685,=C:\Projects\DelphiPatterns\Observer\Patterns\Patterns.Observer.pas</Transaction>
+  </Transactions>
+</BorlandProject>
